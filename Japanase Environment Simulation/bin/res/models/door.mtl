@@ -1,0 +1,22 @@
+# Blender 4.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Material_#25
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/門山莊.tga
+map_d C:/門山莊.tga
+
+newmtl Material_#37
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/門山莊.tga
+map_d C:/門山莊.tga

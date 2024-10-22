@@ -1,0 +1,6 @@
+﻿LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4217: symbol '___glewActiveTexture' defined in 'glew32s.lib(glew.obj)' is imported by 'texture.obj' in function '"public: void __thiscall Texture::bind(unsigned int)" (?bind@Texture@@QAEXI@Z)'
+LINK : warning LNK4217: symbol '___glewGenerateMipmap' defined in 'glew32s.lib(glew.obj)' is imported by 'texture.obj' in function '"public: bool __thiscall Texture::loadTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,bool)" (?loadTexture@Texture@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)'
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\roaan\source\repos\CMPS373 Project\Japanase Environment Simulation\bin\vc120.pdb'; linking object as if no debug info
+  Japanase Environment Simulation.vcxproj -> C:\Users\roaan\source\repos\CMPS373 Project\Japanase Environment Simulation\bin\Japanase Environment Simulation.exe
